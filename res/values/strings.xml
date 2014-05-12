@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="menu">Menu</string>
+    <string name="send_to_email">Send to e-mail</string>
+</resources>
